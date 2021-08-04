@@ -76,13 +76,21 @@ Key Skills:
 	Primary Skills: 
 
 	Oracle SQL, Python, Flask, HTML, Bootstrap
+
 	UNIX / LINUX, Shell Scripting, 
+
 	Concepts of Data Science, Data Analysis, Artificial Intelligence, Machine Learning & Deep Learning
+
 	Python Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Tensorflow
+
 	Machine Learning Algorithm: Linear Regression, Logistic Regression, KNN, K-Means Clustering, SVM, Decision Trees & Random Forest
+
 	Deep Learning Algorithm: ANN, CNN, RNN
+
 	Natural Language Processing
+
 	Model Deployment Platform: Heroku, AWS, Microsoft Azure
+
 
 ====================
 
@@ -90,8 +98,11 @@ Key Skills:
 	Secondary Skills:
 
 	IBM DataStage, ETL Informatica, AutoSys
+
 	Fundamental Oracle PL/SQL, RDBMS,
+
 	AWS, Microsoft Azure
+
 	Git & GitHub
 
 ====================
@@ -100,12 +111,19 @@ Key Skills:
 	Tools Used: 
 
 	ServiceNow, ServiceFirst, SCCD, JIRA, 
+
 	AutoSys, AppDynamics, TWS, NetCool, 
+
 	IBM DataStage, Informatica Power Centre Client, 
+
 	Oracle SQL Developer, Oracle Toad, MS SQL Server Management Studio, 
+
 	Putty, WinSCP, 
+
 	MS Outlook, IBM Lotus Notes, 
-	Nolio
+
+	Nolio,
+
 	Jupyter Notebook, Microsoft VS Code, PyCharm.
 
 
