@@ -10,9 +10,13 @@ Subhajit Saha || Application Developer at IBM || Artificial Intelligence & Machi
 
 Contact Details:
 	Email Id: sahasubhajit094@gmail.com, subhajitsaha.msit1903@yahoo.com
+
 	Mobile: +91-8240734102, +91-9804467871
+
 	LinkedIn: https://www.linkedin.com/in/subhajitsaha1903/
+
 	GitHub: https://github.com/subhajitsaha1903
+
 =========================
 
 
@@ -146,8 +150,11 @@ https://coursera.org/share/e3e79403b3ab6561f61523492e45821a
 Languages Known:			
 
 English	Read, Write & Speak
+
 Bengali	Read, Write & Speak
+
 Hindi	Read & Speak
+
 
 
 ===============================
